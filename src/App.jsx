@@ -63,7 +63,7 @@ const App = () => {
         fontWeight: 700,
         letterSpacing: '0.5px',
         zIndex: 10,
-        pointerEvents: 'none', // allows chatbot button to be clickable
+        pointerEvents: 'none', 
       }}>
         Welcome to the AI ChatBot Demo!<br/>
         Ask anything, get instant answers.
